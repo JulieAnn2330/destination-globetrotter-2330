@@ -28,7 +28,7 @@
 
 The link to the deployed app can be found here:
 
-<a href="https://destination-globetrotter.herokuapp.com/">Destination Globetrotter</a>
+<a href="https://destinationglobetrotter.herokuapp.com/">Destination Globetrotter</a>
 </p><br>
 <a href="#top" id="start">(Back to Top of Page)</a><br>
 <br>
